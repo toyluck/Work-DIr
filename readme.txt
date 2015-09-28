@@ -21,9 +21,7 @@ Creating a new branch is quick.
 test - branch  add text
 
 ----------------------------
-<<<<<<< HEAD
-Creating a new branch is quick AND simple.
-=======
 
 Creating a new branch is quick AND simple.
->>>>>>> feature1
+
+

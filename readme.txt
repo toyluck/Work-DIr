@@ -19,3 +19,7 @@ Creating a new branch is quick.
 
 ----------------------------
 test - branch  add text
+
+----------------------------
+
+Creating a new branch is quick AND simple.

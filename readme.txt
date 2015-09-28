@@ -21,4 +21,9 @@ Creating a new branch is quick.
 test - branch  add text
 
 ----------------------------
-master --create new line
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+
+Creating a new branch is quick AND simple.
+>>>>>>> feature1

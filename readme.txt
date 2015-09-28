@@ -19,3 +19,6 @@ Creating a new branch is quick.
 
 ----------------------------
 test - branch  add text
+
+----------------------------
+master --create new line
